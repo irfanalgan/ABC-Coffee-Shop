@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_RxiGcVlTEeybXtf1rwDpCg" name="sales_outlet" dataPackage="_RxiGcllTEeybXtf1rwDpCg" Server="Localhost 127.0.0.1" FilePath="C:/Users/IRPHAN/Desktop/case study/sales_outlet.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_RxiGcllTEeybXtf1rwDpCg" name="default" dataManager="_RxiGcVlTEeybXtf1rwDpCg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_RxiGc1lTEeybXtf1rwDpCg" id="_7TZsgFlSEeybXtf1rwDpCg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RxiGdFlTEeybXtf1rwDpCg" label="sales_outlet_id" length="2" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RxiGdVlTEeybXtf1rwDpCg" label="sales_outlet_type" length="60" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RxiGdllTEeybXtf1rwDpCg" label="store_square_feet" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RxiGd1lTEeybXtf1rwDpCg" label="store_address" length="255" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RxiGeFlTEeybXtf1rwDpCg" label="store_city" length="60" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RxiGeVlTEeybXtf1rwDpCg" label="store_state_province" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RxiGellTEeybXtf1rwDpCg" label="store_telephone" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RxiGe1lTEeybXtf1rwDpCg" label="store_postal_code" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RxiGfFlTEeybXtf1rwDpCg" label="store_longitude" length="10" precision="7" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RxiGfVlTEeybXtf1rwDpCg" label="store_latitude" length="9" precision="7" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RxiGfllTEeybXtf1rwDpCg" label="manager" length="-1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RxiGf1lTEeybXtf1rwDpCg" label="Neighorhood" length="60" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

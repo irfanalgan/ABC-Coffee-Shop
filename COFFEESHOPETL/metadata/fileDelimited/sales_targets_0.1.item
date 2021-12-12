@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_6uLfkVlSEeybXtf1rwDpCg" name="sales_targets" dataPackage="_6uLfkllSEeybXtf1rwDpCg" Server="Localhost 127.0.0.1" FilePath="C:/Users/IRPHAN/Desktop/case study/sales targets.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_6uLfkllSEeybXtf1rwDpCg" name="default" dataManager="_6uLfkVlSEeybXtf1rwDpCg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_6uLfk1lSEeybXtf1rwDpCg" id="_wHKdkFlSEeybXtf1rwDpCg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6uLflFlSEeybXtf1rwDpCg" label="sales_outlet_id" length="2" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6uLflVlSEeybXtf1rwDpCg" label="year_month" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6uLflllSEeybXtf1rwDpCg" label="beans_goal" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6uLfl1lSEeybXtf1rwDpCg" label="beverage_goal" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6uLfmFlSEeybXtf1rwDpCg" label="food_goal" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6uLfmVlSEeybXtf1rwDpCg" label="merchandise_goal" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6uLfmllSEeybXtf1rwDpCg" label="total_goal" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
