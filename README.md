@@ -44,7 +44,7 @@ I will post some images of my work in case you get some errors in the program.
 
 
 
-### I used tableau for data analysis (version 2021.3). 
+### I used Tableau for data analysis (version 2021.3). 
 
 Since I use localhost to store the data, I am adding some photos for diagrams and pdf file output for the table, in case you cannot access the diagrams and analysis table in the program. 
 
