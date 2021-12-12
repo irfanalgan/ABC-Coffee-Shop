@@ -4,4 +4,4 @@ I downloaded the dataset from Kaggle https://www.kaggle.com/ylchang/coffee-shop-
 
 ## DATABASE
 
-I used postgresql database to save the data warehouse.
+I used PostgreSQL database to save the data warehouse.
