@@ -52,6 +52,14 @@ Since I use localhost to store the data, I am adding some photos for diagrams an
 
 ![N|Solid](https://i.hizliresim.com/sigvnm1.png)
 
+## Pastry Inventory Dashboard
+
+![N|Solid](https://i.hizliresim.com/rea855l.png)
+
 ## Sales Reciepts
 
 ![N|Solid](https://i.hizliresim.com/9uet2by.png)
+
+## Sales Reciepts Dashboard
+
+![N|Solid](https://i.hizliresim.com/mpnowmu.png)
